@@ -20,7 +20,7 @@ This dataset satisfies the assignment minimum of 12 features and 500 instances.
 
 ## 3. GitHub Repository Link
 
-**Replace before submission:** `https://github.com/YOUR_USERNAME/ml-assignment-2`
+`https://github.com/sudarshansomeneni/Bits-ML-Assignment-2`
 
 ## 4. Models Used
 
