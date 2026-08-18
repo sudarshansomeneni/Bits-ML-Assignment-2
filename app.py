@@ -294,6 +294,7 @@ st.markdown(
     f"""
     <div class="dash-hero">
         <h1>🧪 Classification Model Dashboard</h1>
+        <p> - Created by Sudarshan Someneni - 2025AC05693</p>
         <p>Compare 6 classification models trained on {feature_info['dataset_name']}.</p>
         <span class="badge">Dataset: {feature_info['rows']} rows · {feature_info['features']} features</span>
         <span class="badge">Data source: {data_source_label}</span>
