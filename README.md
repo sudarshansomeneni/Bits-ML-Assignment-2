@@ -126,28 +126,19 @@ The application includes the assignment requirements:
 - Model comparison chart
 - Downloadable evaluation-results CSV
 
-## 10. Streamlit Community Cloud Deployment
+## 10. Streamlit Community Cloud Deployment link
 
-1. Push the complete project to GitHub.
-2. Sign in to Streamlit Community Cloud with GitHub.
-3. Create a new app.
-4. Select the GitHub repository.
-5. Select the `main` branch.
-6. Select `app.py`.
-7. Deploy.
-8. Copy the live Streamlit URL into the final PDF.
-
-**Replace before submission:** `YOUR_STREAMLIT_APP_URL`
+ `https://bits-ml-assignment-2-54zdgbakprbwbnvxvtjedq.streamlit.app/`
 
 ## 11. Final Submission Checklist
 
-- [ ] GitHub repository link works.
-- [ ] Repository contains all source code, `requirements.txt`, README, test CSV, and saved model files.
-- [ ] Streamlit app link opens an interactive frontend.
-- [ ] Test CSV upload works.
-- [ ] Model selection works.
-- [ ] Metrics are visible.
-- [ ] Confusion matrix/classification report is visible.
-- [ ] BITS Virtual Lab execution screenshot is captured.
-- [ ] GitHub and Streamlit links are placed in the final PDF.
-- [ ] README content is included in the final PDF.
+- [x] GitHub repository link works.
+- [x] Repository contains all source code, `requirements.txt`, README, test CSV, and saved model files.
+- [x] Streamlit app link opens an interactive frontend.
+- [x] Test CSV upload works.
+- [x] Model selection works.
+- [x] Metrics are visible.
+- [x] Confusion matrix/classification report is visible.
+- [x] BITS Virtual Lab execution screenshot is captured.
+- [x] GitHub and Streamlit links are placed in the final PDF.
+- [x] README content is included in the final PDF.
